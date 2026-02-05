@@ -1,0 +1,6 @@
+
+{
+  "name": "Measurement Shared Cloud",
+  "description": "基于 VPS 同步的专业测量分析中台。支持多终端实时共享历史数据，内置 Gemini AI 质量诊断系统。",
+  "requestFramePermissions": []
+}
